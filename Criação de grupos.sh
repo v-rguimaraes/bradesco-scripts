@@ -1,0 +1,9 @@
+az ad group create --display-name LiderançaCorp --mail-nickname LiderançaCorp
+az ad group create --display-name CloudCorp --mail-nickname CloudCorp
+az ad group create --display-name LiderançaFinanceiro --mail-nickname LiderançaFinanceiro
+az ad group create --display-name GerênciaFinDeptA --mail-nickname GerênciaFinDeptA
+az ad group create --display-name GerenciaDeptA --mail-nickname GerenciaDeptA
+az ad group create --display-name EspecialistasDeptA --mail-nickname EspecialistasDeptA
+az ad group create --display-name DevTeamprojeto1 --mail-nickname DevTeamprojeto1
+az ad group create --display-name DevTeamprojeto2 --mail-nickname DevTeamprojeto2
+az ad group create --display-name OperaçõesDeptA --mail-nickname OperaçõesDeptA
